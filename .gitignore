@@ -1,0 +1,19 @@
+# Roblox Studio lock files
+*.rbxl.lock
+*.rbxlx.lock
+
+# Roblox Studio backup files
+*.rbxl.bak
+*.rbxlx.bak
+
+# Roblox Studio autosave files
+*.rbxl-autosave
+*.rbxlx-autosave
+
+# Temporary files
+*.temp
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
